@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+  color: #3a3846;
+  font-size: 10px;
+}
+
+header {
+  height: 20px;
+  background-color: #639a88;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 3rem;
+  display: inline;
+}
+
+o {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  max-width: 500px;
+  float: left;
+  padding: 2rem;
+}
+
+li:nth-child(2) {
+  padding: 2rem;
+}
